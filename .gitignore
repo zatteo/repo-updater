@@ -1,0 +1,23 @@
+node_modules/
+.DS_Store
+*.log
+.env
+.env.*
+.pnp
+.pnp.js
+
+# IDE
+.idea/
+.vscode/
+
+# Coverage
+coverage/
+nyc_output/
+
+# Build
+build/
+dist/
+
+# Dependencies
+package-lock.json
+yarn.lock
